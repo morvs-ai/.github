@@ -14,6 +14,8 @@
 
 **The record.** A machine-readable index of public information with source links, freshness metadata, and dataset-specific terms. [Inspect the catalog](https://api.morvs.ai/datasets/) · [Read the API specification](https://api.morvs.ai/openapi.json)
 
+**The receipt.** The [public API example](https://github.com/morvs-ai/public-api) records the exact response hash and reported dataset freshness at retrieval time. Inspect it, run it, and check the limits.
+
 **The private layer.** [Voidly](https://morvs.ai/voidly/) connects our work in privacy, censorship measurement, and information access. Its public data is distinct from its private infrastructure.
 
 **The network.** [Nexcom](https://morvs.ai/nexcom/) is our publication and distribution network. [Research and writing](https://morvs.ai/writing/) makes the methods and limits visible.
