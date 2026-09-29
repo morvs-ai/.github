@@ -1,23 +1,40 @@
 <p align="center">
-  <img src="https://morvs.ai/logo-512.png" width="88" alt="MORVS mark">
+  <img src="./assets/morvs-banner.png" alt="MORVS. Private intelligence infrastructure." width="100%">
 </p>
 
-<h1 align="center">MORVS</h1>
-<p align="center"><strong>Private intelligence infrastructure.</strong></p>
+<h1 align="center">Built beneath intelligence.</h1>
 
-MORVS builds systems for AI data, privacy, and verifiable public information. It is the public brand of AI Analytics LLC.
+<p align="center">
+  Source-aware data. Private systems. Control over what AI can see and do.
+</p>
 
-### Public data API
+---
 
-Explore the [dataset catalog](https://api.morvs.ai/datasets/), [OpenAPI specification](https://api.morvs.ai/openapi.json), [freshness report](https://api.morvs.ai/api/v1/freshness), and [source terms](https://api.morvs.ai/license).
+### The public surface
 
-A quick start with two public endpoints:
+**The record.** A machine-readable index of public information with source links, freshness metadata, and dataset-specific terms. [Inspect the catalog](https://api.morvs.ai/datasets/) · [Read the API specification](https://api.morvs.ai/openapi.json)
+
+**The private layer.** [Voidly](https://morvs.ai/voidly/) connects our work in privacy, censorship measurement, and information access. Its public data is distinct from its private infrastructure.
+
+**The network.** [Nexcom](https://morvs.ai/nexcom/) is our publication and distribution network. [Research and writing](https://morvs.ai/writing/) makes the methods and limits visible.
+
+### Query the record
 
 ```bash
 curl --fail --silent 'https://api.morvs.ai/api/v1/fda/recalls/recent?limit=1'
 curl --fail --silent 'https://api.morvs.ai/api/v1/cisa/kev/recent?limit=1'
 ```
 
-The API brings together records from sources with different rights and update schedules. Public access does not grant a blanket reuse license. Check each dataset's provenance and terms. When citing a record, include its API URL, retrieval date, and primary source.
+Use the [freshness report](https://api.morvs.ai/api/v1/freshness) and [source terms](https://api.morvs.ai/license) before interpreting or reusing a result. Public access does not grant a blanket license across every source. Cite the record URL, retrieval date, and primary source.
 
-[Website](https://morvs.ai/) · [Voidly](https://morvs.ai/voidly/) · [Research and writing](https://morvs.ai/writing/) · [Contact](https://morvs.ai/contact/)
+---
+
+<p align="center">
+  <a href="https://morvs.ai/">MORVS</a> &nbsp;·&nbsp;
+  <a href="https://api.morvs.ai/datasets/">Data</a> &nbsp;·&nbsp;
+  <a href="https://morvs.ai/voidly/">Voidly</a> &nbsp;·&nbsp;
+  <a href="https://morvs.ai/nexcom/">Nexcom</a> &nbsp;·&nbsp;
+  <a href="https://morvs.ai/contact/">Contact</a>
+</p>
+
+<p align="center"><sub>MORVS is the public brand of AI Analytics LLC.</sub></p>
