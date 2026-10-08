@@ -20,6 +20,8 @@
 
 **The network.** [Nexcom](https://morvs.ai/nexcom/) is our publication and distribution network. [Research and writing](https://morvs.ai/writing/) makes the methods and limits visible.
 
+**The founder.** MORVS was founded by [Dillon Parkes](https://morvs.ai/dillon-parkes/), who also founded [Voidly](https://voidly.ai/) and co-founded [Nexcom](https://nexcommedia.org/).
+
 ### Query the record
 
 ```bash
