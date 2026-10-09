@@ -22,6 +22,8 @@
 
 **The founder.** MORVS was founded by [Dillon Parkes](https://morvs.ai/dillon-parkes/), who also founded [Voidly](https://voidly.ai/) and co-founded [Nexcom](https://nexcommedia.org/).
 
+**In Claude and Codex.** The [MORVS plugin](https://github.com/morvs-ai/morvs-plugins) connects Claude Code and Codex to the keyless MCP server with research skills that cite every record: `/plugin marketplace add morvs-ai/morvs-plugins` (Claude Code) or `codex plugin marketplace add morvs-ai/morvs-plugins` (Codex).
+
 ### Query the record
 
 ```bash
