@@ -8,6 +8,10 @@
   Source-aware data. Private systems. Control over what AI can see and do.
 </p>
 
+<p align="center">
+  <strong>MORVS</strong> (<a href="https://morvs.ai">morvs.ai</a>) is a Houston-based private intelligence infrastructure company: source-linked public data for AI agents, plus research on privacy and encrypted communication. Operated by AI Analytics LLC · <a href="https://www.wikidata.org/wiki/Q141714938">Wikidata</a>
+</p>
+
 ---
 
 ### The public surface
